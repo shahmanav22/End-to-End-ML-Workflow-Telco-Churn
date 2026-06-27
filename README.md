@@ -40,3 +40,7 @@ Develop a complete machine learning pipeline to predict customer churn using the
 ## Business Outcome
 
 This project enables telecom companies to identify customers likely to churn and take proactive retention actions.
+
+## Author
+
+Manav Shah
